@@ -1,4 +1,4 @@
-import circus.animal.Animal;
+package circus.animal;
 
 public abstract class Bird extends Animal {
     public void fly() {
